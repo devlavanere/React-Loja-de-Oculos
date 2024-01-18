@@ -3,7 +3,7 @@ import './style.css';
 export default function SecaoContato(){
     return(
         <section id = 'sobre' className = 'secao-sobre'>
-            <div className = 'secao-container container'>
+            <div className = 'limitar-secao-container container'>
                 <h3>QUEM SOMOS NÓS?</h3>
                 <p>
                     Fundada em 2001, em Nova Iguaçu - Rio de Janeiro, 

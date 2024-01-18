@@ -3,7 +3,7 @@ import './style.css';
 export default function SecaoProduto(){
     return(
         <section id = 'produtos' className = 'secao-produtos'>
-            <div className = 'secao-container'>
+            <div className = 'limitar-secao'>
                 
                 <h3>Nossos produtos</h3>
                 <p>Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino, feminino e infantil.</p>
