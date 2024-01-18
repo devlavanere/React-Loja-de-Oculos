@@ -1,3 +1,7 @@
+# Construção do Site de uma Loja de Óculos
+
+Projeto em ReactJS para construção de um site de uma Loja de Óculos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
